@@ -15,10 +15,10 @@
 
 Systems engineer and security researcher focused on low-level computing, compiler construction, and infrastructure security. I design and implement system-level software from scratch, analyze binary formats, and build deterministic developer tooling.
 
-- ⚙️ **Compilers & Systems:** Building a Rust compiler from scratch in C++20 ([oxide-compiler](https://github.com/isihussain/oxide-compiler)).
+- ⚙️ **Compilers & Systems:** Building a Rust compiler frontend and AST optimizer in C++20 ([oxide-compiler](https://github.com/isihussain/oxide-compiler)) with 156 aerospace safety and conformance tests.
 - 🛡️ **Cybersecurity:** Binary analysis, reverse engineering, vulnerability research, and threat modeling.
-- 🚀 **Simulation & Dynamics:** Flight dynamics and aerospace mechanics simulation ([open-starship](https://github.com/isihussain/open-starship)).
-- 📖 **Documentation & Standards:** Authoring technical cheat sheets and systems architecture guides ([developer-handbook](https://github.com/isihussain/developer-handbook)).
+- 🚀 **Simulation & Dynamics:** Flight dynamics, boundary layer wind shear, and cryogenic slosh simulation ([open-starship](https://github.com/isihussain/open-starship)) with live 3D WebGL telemetry.
+- 📖 **Documentation & Standards:** Authoring 120 technical cheat sheets and systems architecture guides ([developer-handbook](https://github.com/isihussain/developer-handbook)).
 
 ---
 
@@ -56,12 +56,12 @@ Systems engineer and security researcher focused on low-level computing, compile
 
 ### 📌 Featured Projects
 
-| Repository | Description | Primary Stack |
-| :--- | :--- | :--- |
-| [**oxide-compiler**](https://github.com/isihussain/oxide-compiler) | Independent, open-source compiler for the Rust programming language implemented from scratch. | C++20, LLVM, Make |
-| [**open-starship**](https://github.com/isihussain/open-starship) | Starship flight dynamics, trajectory computations, and simulation environment. | Python, Physics Engine |
-| [**developer-handbook**](https://github.com/isihussain/developer-handbook) | Curated architectural patterns, terminal cheat sheets, and systems engineering references. | Markdown, Shell, CI/CD |
-| [**AI-CallCenter**](https://github.com/isihussain/AI-CallCenter) | Open-source foundation for real-time automated conversational telephony services. | Python, Docker, API |
+| Repository | Description | Status & Test Suite | Primary Stack |
+| :--- | :--- | :--- | :--- |
+| [**oxide-compiler**](https://github.com/isihussain/oxide-compiler) | Independent Rust compiler frontend in C++20 with NASA/JPL safety rules, algebraic identity folding, and AST DCE. | **156/156 tests passing** | C++20, LLVM, Make |
+| [**open-starship**](https://github.com/isihussain/open-starship) | 3D flight dynamics, cryogenic slosh, and TPS inspection simulator with live [WebGL telemetry viewer](https://isihussain.github.io/open-starship/). | **32/32 tests passing** | Python, Three.js, WebGL |
+| [**developer-handbook**](https://github.com/isihussain/developer-handbook) | Curated architectural patterns and systems references across distributed consensus (Paxos, Raft), memory models, and Linux kernel internals. | **120 cheat sheets & Q&A library** | Markdown, Shell, CI/CD |
+| [**AI-CallCenter**](https://github.com/isihussain/AI-CallCenter) | Multi-tenant voice assistant backend with real-time audio sideband, call analytics & KPI summary API, and data privacy controls. | **38/38 tests passing** | Python, Docker, WebSockets |
 
 ---
 
