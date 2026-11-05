@@ -15,7 +15,7 @@
 
 Systems engineer and security researcher focused on low-level computing, compiler construction, and infrastructure security. I design and implement system-level software from scratch, analyze binary formats, and build deterministic developer tooling.
 
-- ⚙️ **Compilers & Systems:** Building a Rust compiler frontend and AST optimizer in C++20 ([oxide-compiler](https://github.com/isihussain/oxide-compiler)) with 157 aerospace safety, loop unrolling, and conformance tests.
+- ⚙️ **Compilers & Systems:** Building a Rust compiler frontend and AST optimizer in C++20 ([oxide-compiler](https://github.com/isihussain/oxide-compiler)) with 160 aerospace safety, tail call optimization, and conformance tests.
 - 🛡️ **Cybersecurity:** Binary analysis, reverse engineering, vulnerability research, and threat modeling.
 - 🚀 **Simulation & Dynamics:** Flight dynamics, boundary layer wind shear, and cryogenic slosh simulation ([open-starship](https://github.com/isihussain/open-starship)) with 69 unit tests across GNC, slosh, TPS, and GEO-SAT suites, plus live 3D WebGL telemetry.
 - 📖 **Documentation & Standards:** Authoring 120 technical cheat sheets and systems architecture guides ([developer-handbook](https://github.com/isihussain/developer-handbook)) with 32 accepted consensus and kernel discussions.
@@ -58,7 +58,7 @@ Systems engineer and security researcher focused on low-level computing, compile
 
 | Repository | Description | Status & Test Suite | Primary Stack |
 | :--- | :--- | :--- | :--- |
-| [**oxide-compiler**](https://github.com/isihussain/oxide-compiler) | Independent Rust compiler frontend in C++20 with NASA/JPL safety rules, algebraic identity folding, loop unrolling, and AST DCE. | **157/157 tests passing** | C++20, LLVM, Make |
+| [**oxide-compiler**](https://github.com/isihussain/oxide-compiler) | Independent Rust compiler frontend in C++20 with NASA/JPL safety rules, algebraic identity folding, loop unrolling, and AST DCE. | **160/160 tests passing** | C++20, LLVM, Make |
 | [**open-starship**](https://github.com/isihussain/open-starship) | 3D flight dynamics, cryogenic slosh, and TPS inspection simulator with live [WebGL telemetry viewer](https://isihussain.github.io/open-starship/). | **69/69 tests passing** | Python, Three.js, WebGL |
 | [**developer-handbook**](https://github.com/isihussain/developer-handbook) | Curated architectural patterns and systems references across distributed consensus (Paxos, Raft), memory models, and Linux kernel internals. | **120 cheat sheets & 32 Q&A discussions (Galaxy Brain Gold)** | Markdown, Shell, CI/CD |
 | [**AI-CallCenter**](https://github.com/isihussain/AI-CallCenter) | Multi-tenant voice assistant backend with real-time audio sideband, call analytics & KPI summary API, and data privacy controls. | **38/38 tests passing** | Python, Docker, WebSockets |
