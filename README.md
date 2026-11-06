@@ -62,6 +62,7 @@ Systems engineer and security researcher focused on low-level computing, compile
 | [**open-starship**](https://github.com/isihussain/open-starship) | 3D flight dynamics, cryogenic slosh, and TPS inspection simulator with live [WebGL telemetry viewer](https://isihussain.github.io/open-starship/). | **69/69 tests passing** | Python, Three.js, WebGL |
 | [**developer-handbook**](https://github.com/isihussain/developer-handbook) | Curated architectural patterns and systems references across distributed consensus (Paxos, Raft), memory models, HFT systems, and Linux kernel internals. | **268 cheat sheets & 32 Q&A discussions (Galaxy Brain Gold)** | Markdown, Docsify, Shell |
 | [**AI-CallCenter**](https://github.com/isihussain/AI-CallCenter) | Multi-tenant voice assistant backend with real-time audio sideband, call analytics & KPI summary API, and data privacy controls. | **38/38 tests passing** | Python, Docker, WebSockets |
+| [**monthly-project-planner-a4**](https://github.com/isihussain/monthly-project-planner-a4) | Minimalist, ink-friendly, single-page A4 monthly project & calendar planner with interactive checkboxes, localStorage persistence, and 5-language localization. | **Live [GitHub Pages App](https://isihussain.github.io/monthly-project-planner-a4/)** | HTML5, CSS3, Vanilla JS |
 
 ---
 
