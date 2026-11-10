@@ -1,32 +1,37 @@
 <div align="center">
 
-# Ismayil Hussain 🇦🇿
+# Ismayil Hussain
 ### Systems & Compiler Engineer • Cybersecurity Researcher
 
 <p align="center">
-  <a href="https://isihussain.com"><img src="https://img.shields.io/badge/Website-isihussain.com-0052cc?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="mailto:admin@isihussain.com"><img src="https://img.shields.io/badge/Email-admin%40isihussain.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/isihussain/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/isihussain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Nationality-Azerbaijani-0092bc?style=for-the-badge" alt="Azerbaijani"/></a>
+  <strong>📍 Azerbaijan 🇦🇿</strong> &nbsp;•&nbsp;
+  <a href="mailto:admin@isihussain.com"><strong>✉️ admin@isihussain.com</strong></a> &nbsp;•&nbsp;
+  <a href="https://isihussain.com"><strong>🌐 isihussain.com</strong></a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/isihussain/"><img src="https://img.shields.io/badge/LinkedIn-Ismayil%20Hussain-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:admin@isihussain.com"><img src="https://img.shields.io/badge/Email-admin%40isihussain.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://isihussain.com"><img src="https://img.shields.io/badge/Website-isihussain.com-0052cc?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://github.com/isihussain"><img src="https://img.shields.io/badge/GitHub-isihussain-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💼 About
 
-Systems engineer and security researcher from Azerbaijan 🇦🇿, focused on low-level computing, compiler construction, and infrastructure security. I design and implement system-level software from scratch, analyze binary formats, and build deterministic developer tooling.
+Systems engineer and cybersecurity researcher based in **Azerbaijan 🇦🇿**, focusing on compiler construction, low-level systems, and security-critical infrastructure. I build deterministic system-level software from scratch, analyze binary formats, and develop production developer tooling.
 
-- ⚙️ **Compilers & Systems:** Building an independent Rust compiler frontend and AST optimizer in C++20 ([`oxide-compiler`](https://github.com/isihussain/oxide-compiler)) with 166 verified tests covering aerospace safety rules, tail call optimization, bitwise/modulo, and relational identity folding.
+- ⚙️ **Compilers & Systems:** Authoring an independent Rust compiler frontend and AST optimizer in C++20 ([`oxide-compiler`](https://github.com/isihussain/oxide-compiler)) with 166 verified tests covering aerospace safety rules, tail call optimization, and algebraic identity folding.
 - 🛡️ **Cybersecurity & Reverse Engineering:** Binary analysis, executable format inspection (ELF/PE), vulnerability research, threat modeling, and kernel-level runtime protection.
-- 🚀 **Simulation & Dynamics:** Flight dynamics, boundary layer wind shear, and cryogenic propellant slosh simulation ([`open-starship`](https://github.com/isihussain/open-starship)) with 69 unit tests across GNC, slosh, TPS, and GEO-SAT suites, plus live 3D WebGL telemetry.
-- 📖 **Documentation & Standards:** Authoring 268 technical cheat sheets and systems architecture guides ([`developer-handbook`](https://github.com/isihussain/developer-handbook)) with an interactive Docsify reader and 32 accepted consensus/kernel discussions.
+- 🚀 **Simulation & Dynamics:** Flight dynamics, boundary layer wind shear, and cryogenic propellant slosh simulation ([`open-starship`](https://github.com/isihussain/open-starship)) with 69 unit tests and live 3D WebGL telemetry.
+- 📖 **Architecture & Standards:** Curating 268 technical cheat sheets and systems architecture guides ([`developer-handbook`](https://github.com/isihussain/developer-handbook)) covering distributed consensus, memory fences, and Linux kernel internals.
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### 🛠️ Core Competencies & Skills
 
 <table>
   <tr>
@@ -42,7 +47,7 @@ Systems engineer and security researcher from Azerbaijan 🇦🇿, focused on lo
     </td>
   </tr>
   <tr>
-    <td width="22%" valign="top"><strong>Systems & Compilers</strong></td>
+    <td width="22%" valign="top"><strong>Compilers & Systems</strong></td>
     <td width="78%">
       <img src="https://img.shields.io/badge/LLVM-262F38?style=flat-square&logo=llvm&logoColor=white" alt="LLVM"/>
       <img src="https://img.shields.io/badge/Clang%20%2F%20GCC-000000?style=flat-square&logo=gnu&logoColor=white" alt="Clang/GCC"/>
@@ -53,7 +58,7 @@ Systems engineer and security researcher from Azerbaijan 🇦🇿, focused on lo
     </td>
   </tr>
   <tr>
-    <td width="22%" valign="top"><strong>Security & Forensics</strong></td>
+    <td width="22%" valign="top"><strong>Security & Analysis</strong></td>
     <td width="78%">
       <img src="https://img.shields.io/badge/Reverse%20Engineering-FF4500?style=flat-square&logo=target&logoColor=white" alt="Reverse Engineering"/>
       <img src="https://img.shields.io/badge/Binary%20Analysis-2C3E50?style=flat-square&logo=gnubash&logoColor=white" alt="Binary Analysis"/>
@@ -64,7 +69,7 @@ Systems engineer and security researcher from Azerbaijan 🇦🇿, focused on lo
     </td>
   </tr>
   <tr>
-    <td width="22%" valign="top"><strong>Infrastructure & Tooling</strong></td>
+    <td width="22%" valign="top"><strong>Infrastructure & Cloud</strong></td>
     <td width="78%">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="CI/CD"/>
@@ -79,13 +84,13 @@ Systems engineer and security researcher from Azerbaijan 🇦🇿, focused on lo
 
 ### 📌 Featured Projects
 
-| Repository | Focus & Highlights | Status & Verification | Primary Stack |
+| Project | Domain | Architecture & Highlights | Verification & Stack |
 | :--- | :--- | :--- | :--- |
-| [**oxide-compiler**](https://github.com/isihussain/oxide-compiler) | Independent Rust compiler frontend in C++20 with NASA/JPL safety rules, algebraic identity folding, loop unrolling, and AST dead-code elimination. | `166 / 166 tests passing` | `C++20` `LLVM` `CMake` |
-| [**open-starship**](https://github.com/isihussain/open-starship) | 3D flight dynamics, cryogenic propellant slosh, and TPS inspection simulator with live [WebGL telemetry viewer](https://isihussain.github.io/open-starship/). | `69 / 69 tests passing` | `Python` `Three.js` `WebGL` |
-| [**developer-handbook**](https://github.com/isihussain/developer-handbook) | Curated architectural patterns and systems references across distributed consensus (Paxos, Raft), memory models, HFT systems, and Linux kernel internals. | `268 cheat sheets` • [Live Docs](https://isihussain.github.io/developer-handbook/) | `Markdown` `Docsify` `Shell` |
-| [**AI-CallCenter**](https://github.com/isihussain/AI-CallCenter) | Multi-tenant voice assistant backend with real-time audio sideband, call analytics & KPI summary API, and data privacy controls. | `38 / 38 tests passing` | `Python` `Docker` `WebSockets` |
-| [**monthly-project-planner-a4**](https://github.com/isihussain/monthly-project-planner-a4) | Minimalist, ink-friendly, single-page A4 monthly project & calendar planner with interactive checkboxes, localStorage persistence, and 5-language localization. | [Live Web App](https://isihussain.github.io/monthly-project-planner-a4/) | `HTML5` `CSS3` `Vanilla JS` |
+| [**oxide-compiler**](https://github.com/isihussain/oxide-compiler) | Compilers & AST | Independent Rust compiler frontend in C++20 with NASA/JPL safety rules, algebraic identity folding, loop unrolling, and AST dead-code elimination. | `166 / 166 tests passing` · `C++20` `LLVM` |
+| [**open-starship**](https://github.com/isihussain/open-starship) | Physics & Simulation | 3D flight dynamics, cryogenic propellant slosh, and TPS inspection simulator with live [WebGL telemetry viewer](https://isihussain.github.io/open-starship/). | `69 / 69 tests passing` · `Python` `Three.js` |
+| [**developer-handbook**](https://github.com/isihussain/developer-handbook) | Systems Architecture | Curated architectural patterns and systems references across distributed consensus (Paxos, Raft), memory models, HFT systems, and Linux kernel internals. | `268 cheat sheets` • [Live Docs](https://isihussain.github.io/developer-handbook/) |
+| [**AI-CallCenter**](https://github.com/isihussain/AI-CallCenter) | Distributed Voice AI | Multi-tenant voice assistant backend with real-time audio sideband, call analytics & KPI summary API, and data privacy controls. | `38 / 38 tests passing` · `Python` `WebSockets` |
+| [**monthly-project-planner-a4**](https://github.com/isihussain/monthly-project-planner-a4) | Productivity Tool | Minimalist, ink-friendly, single-page A4 monthly project & calendar planner with interactive checkboxes, localStorage persistence, and 5-language localization. | [Live Web App](https://isihussain.github.io/monthly-project-planner-a4/) |
 
 ---
 
@@ -101,17 +106,17 @@ Systems engineer and security researcher from Azerbaijan 🇦🇿, focused on lo
 
 <div align="center">
 
-### 📬 Connect & Collaborate
+### 📬 Contact & Connect
 
-Interested in low-level systems, compiler development, or security research?
+Interested in low-level systems, compiler development, or cybersecurity research?
 
 <p align="center">
-  <a href="mailto:admin@isihussain.com"><img src="https://img.shields.io/badge/Email-admin%40isihussain.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://isihussain.com"><img src="https://img.shields.io/badge/Website-isihussain.com-0052cc?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a>
-  <a href="https://www.linkedin.com/in/isihussain/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/isihussain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:admin@isihussain.com"><img src="https://img.shields.io/badge/Email-admin%40isihussain.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://isihussain.com"><img src="https://img.shields.io/badge/Website-isihussain.com-0052cc?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/isihussain/"><img src="https://img.shields.io/badge/LinkedIn-Ismayil%20Hussain-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/isihussain"><img src="https://img.shields.io/badge/GitHub-isihussain-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-**Email:** [`admin@isihussain.com`](mailto:admin@isihussain.com) • **Domain:** [`isihussain.com`](https://isihussain.com) • **Origin:** Azerbaijan 🇦🇿
+`admin@isihussain.com` • [isihussain.com](https://isihussain.com) • [LinkedIn](https://www.linkedin.com/in/isihussain/) • Azerbaijan 🇦🇿
 
 </div>
