@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ismayil Hussain
-### Systems & Compiler Engineer • Cybersecurity Researcher • Former Military
+### Systems & Compiler Engineer • Cybersecurity Researcher • Military Signal TSgt
 
 <p align="center">
   <strong>📍 Azerbaijan 🇦🇿</strong> &nbsp;•&nbsp;
@@ -14,7 +14,8 @@
   <a href="mailto:admin@isihussain.com"><img src="https://img.shields.io/badge/Email-admin%40isihussain.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://isihussain.com"><img src="https://img.shields.io/badge/Website-isihussain.com-0052cc?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="https://github.com/isihussain"><img src="https://img.shields.io/badge/GitHub-isihussain-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/Background-Former%20Military-4B5320?style=flat-square&logo=shield" alt="Former Military"/>
+  <img src="https://img.shields.io/badge/Military-Signal%20TSgt-4B5320?style=flat-square&logo=shield" alt="Military Signal TSgt"/>
+  <img src="https://img.shields.io/badge/Specialization-Tactical%20Communications-2F4F4F?style=flat-square&logo=radio" alt="Tactical Communications"/>
 </p>
 
 </div>
@@ -23,9 +24,9 @@
 
 ### 👨‍💼 About
 
-Systems engineer, cybersecurity researcher, and former military professional based in **Azerbaijan 🇦🇿**, focusing on compiler construction, low-level systems, and security-critical infrastructure. I bring defense-grade operational discipline, threat awareness, and mission-critical verification to systems software and deterministic developer tooling.
+Systems engineer, cybersecurity researcher, and **Former Military Signal Technical Sergeant (TSgt)** based in **Azerbaijan 🇦🇿**. My background spans low-level compiler construction, security-critical systems architecture, and deep operational expertise as a **military communications technician**. I bring mission-critical operational discipline, RF signal engineering, and hardware-level troubleshooting into software systems and deterministic developer tooling.
 
-- 🎖️ **Defense & Military Background:** Prior military service, applying operational discipline, threat modeling, and mission-critical reliability to systems engineering and security research.
+- 📡 **Military Signals & Communications (TSgt):** Former military signal technical sergeant and communications equipment technician (Muhabere). Hands-on expertise in tactical radio transceivers (HF/VHF/UHF, SDR), frequency management, COMSEC/cryptographic devices, antenna propagation, and component-level diagnostic repair of field communications hardware.
 - ⚙️ **Compilers & Systems:** Authoring an independent Rust compiler frontend and AST optimizer in C++20 ([`oxide-compiler`](https://github.com/isihussain/oxide-compiler)) with 166 verified tests covering aerospace safety rules, tail call optimization, and algebraic identity folding.
 - 🛡️ **Cybersecurity & Reverse Engineering:** Binary analysis, executable format inspection (ELF/PE), vulnerability research, threat modeling, and kernel-level runtime protection.
 - 🚀 **Simulation & Dynamics:** Flight dynamics, boundary layer wind shear, and cryogenic propellant slosh simulation ([`open-starship`](https://github.com/isihussain/open-starship)) with 69 unit tests and live 3D WebGL telemetry.
@@ -37,8 +38,18 @@ Systems engineer, cybersecurity researcher, and former military professional bas
 
 <table>
   <tr>
-    <td width="22%" valign="top"><strong>Languages</strong></td>
-    <td width="78%">
+    <td width="24%" valign="top"><strong>Tactical Signals & Hardware</strong></td>
+    <td width="76%">
+      <img src="https://img.shields.io/badge/Signal%20Corps-TSgt-4B5320?style=flat-square&logo=shield&logoColor=white" alt="Signal TSgt"/>
+      <img src="https://img.shields.io/badge/Tactical%20Comms-HF%20%2F%20VHF%20%2F%20UHF-2F4F4F?style=flat-square&logoColor=white" alt="Tactical Comms"/>
+      <img src="https://img.shields.io/badge/Hardware%20Maintenance-Comms%20Technician-3E505B?style=flat-square&logoColor=white" alt="Comms Technician"/>
+      <img src="https://img.shields.io/badge/RF%20Engineering-SDR%20%26%20Antenna-1E3A8A?style=flat-square&logoColor=white" alt="RF Engineering"/>
+      <img src="https://img.shields.io/badge/Security-COMSEC%20%2F%20Cryptographic%20Gear-7B1113?style=flat-square&logoColor=white" alt="COMSEC"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="24%" valign="top"><strong>Languages</strong></td>
+    <td width="76%">
       <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++20"/>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
       <img src="https://img.shields.io/badge/C17-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
@@ -49,8 +60,8 @@ Systems engineer, cybersecurity researcher, and former military professional bas
     </td>
   </tr>
   <tr>
-    <td width="22%" valign="top"><strong>Compilers & Systems</strong></td>
-    <td width="78%">
+    <td width="24%" valign="top"><strong>Compilers & Systems</strong></td>
+    <td width="76%">
       <img src="https://img.shields.io/badge/LLVM-262F38?style=flat-square&logo=llvm&logoColor=white" alt="LLVM"/>
       <img src="https://img.shields.io/badge/Clang%20%2F%20GCC-000000?style=flat-square&logo=gnu&logoColor=white" alt="Clang/GCC"/>
       <img src="https://img.shields.io/badge/GDB%20%2F%20LLDB-333333?style=flat-square&logo=gnu&logoColor=white" alt="GDB/LLDB"/>
@@ -60,8 +71,8 @@ Systems engineer, cybersecurity researcher, and former military professional bas
     </td>
   </tr>
   <tr>
-    <td width="22%" valign="top"><strong>Security & Analysis</strong></td>
-    <td width="78%">
+    <td width="24%" valign="top"><strong>Security & Analysis</strong></td>
+    <td width="76%">
       <img src="https://img.shields.io/badge/Reverse%20Engineering-FF4500?style=flat-square&logo=target&logoColor=white" alt="Reverse Engineering"/>
       <img src="https://img.shields.io/badge/Binary%20Analysis-2C3E50?style=flat-square&logo=gnubash&logoColor=white" alt="Binary Analysis"/>
       <img src="https://img.shields.io/badge/Threat%20Modeling-8B0000?style=flat-square&logo=shield&logoColor=white" alt="Threat Modeling"/>
@@ -71,8 +82,8 @@ Systems engineer, cybersecurity researcher, and former military professional bas
     </td>
   </tr>
   <tr>
-    <td width="22%" valign="top"><strong>Infrastructure & Cloud</strong></td>
-    <td width="78%">
+    <td width="24%" valign="top"><strong>Infrastructure & Cloud</strong></td>
+    <td width="76%">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="CI/CD"/>
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
@@ -110,7 +121,7 @@ Systems engineer, cybersecurity researcher, and former military professional bas
 
 ### 📬 Contact & Connect
 
-Interested in low-level systems, compiler development, or cybersecurity research?
+Interested in low-level systems, compiler development, tactical communications, or security research?
 
 <p align="center">
   <a href="mailto:admin@isihussain.com"><img src="https://img.shields.io/badge/Email-admin%40isihussain.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -119,6 +130,6 @@ Interested in low-level systems, compiler development, or cybersecurity research
   <a href="https://github.com/isihussain"><img src="https://img.shields.io/badge/GitHub-isihussain-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-`admin@isihussain.com` • [isihussain.com](https://isihussain.com) • [LinkedIn](https://www.linkedin.com/in/isihussain/) • Former Military • Azerbaijan 🇦🇿
+`admin@isihussain.com` • [isihussain.com](https://isihussain.com) • [LinkedIn](https://www.linkedin.com/in/isihussain/) • Military Signal TSgt (Vet.) • Azerbaijan 🇦🇿
 
 </div>
