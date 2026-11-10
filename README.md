@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ismayil Hussain
-### Systems & Compiler Engineer • Cybersecurity Researcher
+### Systems & Compiler Engineer • Cybersecurity Researcher • Former Military
 
 <p align="center">
   <strong>📍 Azerbaijan 🇦🇿</strong> &nbsp;•&nbsp;
@@ -14,6 +14,7 @@
   <a href="mailto:admin@isihussain.com"><img src="https://img.shields.io/badge/Email-admin%40isihussain.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://isihussain.com"><img src="https://img.shields.io/badge/Website-isihussain.com-0052cc?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"/></a>
   <a href="https://github.com/isihussain"><img src="https://img.shields.io/badge/GitHub-isihussain-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://img.shields.io/badge/Background-Former%20Military-4B5320?style=flat-square&logo=shield" alt="Former Military"/>
 </p>
 
 </div>
@@ -22,8 +23,9 @@
 
 ### 👨‍💼 About
 
-Systems engineer and cybersecurity researcher based in **Azerbaijan 🇦🇿**, focusing on compiler construction, low-level systems, and security-critical infrastructure. I build deterministic system-level software from scratch, analyze binary formats, and develop production developer tooling.
+Systems engineer, cybersecurity researcher, and former military professional based in **Azerbaijan 🇦🇿**, focusing on compiler construction, low-level systems, and security-critical infrastructure. I bring defense-grade operational discipline, threat awareness, and mission-critical verification to systems software and deterministic developer tooling.
 
+- 🎖️ **Defense & Military Background:** Prior military service, applying operational discipline, threat modeling, and mission-critical reliability to systems engineering and security research.
 - ⚙️ **Compilers & Systems:** Authoring an independent Rust compiler frontend and AST optimizer in C++20 ([`oxide-compiler`](https://github.com/isihussain/oxide-compiler)) with 166 verified tests covering aerospace safety rules, tail call optimization, and algebraic identity folding.
 - 🛡️ **Cybersecurity & Reverse Engineering:** Binary analysis, executable format inspection (ELF/PE), vulnerability research, threat modeling, and kernel-level runtime protection.
 - 🚀 **Simulation & Dynamics:** Flight dynamics, boundary layer wind shear, and cryogenic propellant slosh simulation ([`open-starship`](https://github.com/isihussain/open-starship)) with 69 unit tests and live 3D WebGL telemetry.
@@ -117,6 +119,6 @@ Interested in low-level systems, compiler development, or cybersecurity research
   <a href="https://github.com/isihussain"><img src="https://img.shields.io/badge/GitHub-isihussain-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-`admin@isihussain.com` • [isihussain.com](https://isihussain.com) • [LinkedIn](https://www.linkedin.com/in/isihussain/) • Azerbaijan 🇦🇿
+`admin@isihussain.com` • [isihussain.com](https://isihussain.com) • [LinkedIn](https://www.linkedin.com/in/isihussain/) • Former Military • Azerbaijan 🇦🇿
 
 </div>
