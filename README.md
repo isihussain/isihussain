@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ismayil Hussain 👋
+# Ismayil Hussain 🇦🇿
 ### Systems & Compiler Engineer • Cybersecurity Researcher
 
 <p align="center">
@@ -8,7 +8,7 @@
   <a href="mailto:admin@isihussain.com"><img src="https://img.shields.io/badge/Email-admin%40isihussain.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/isihussain/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/isihussain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/Location-Estonia-0072CE?style=for-the-badge&logo=pinboard&logoColor=white" alt="Location"/>
+  <a href="#"><img src="https://img.shields.io/badge/Nationality-Azerbaijani-0092bc?style=for-the-badge" alt="Azerbaijani"/></a>
 </p>
 
 </div>
@@ -17,7 +17,7 @@
 
 ### 👨‍💻 About Me
 
-Systems engineer and security researcher focused on low-level computing, compiler construction, and infrastructure security. I design and implement system-level software from scratch, analyze binary formats, and build deterministic developer tooling.
+Systems engineer and security researcher from Azerbaijan 🇦🇿, focused on low-level computing, compiler construction, and infrastructure security. I design and implement system-level software from scratch, analyze binary formats, and build deterministic developer tooling.
 
 - ⚙️ **Compilers & Systems:** Building an independent Rust compiler frontend and AST optimizer in C++20 ([`oxide-compiler`](https://github.com/isihussain/oxide-compiler)) with 166 verified tests covering aerospace safety rules, tail call optimization, bitwise/modulo, and relational identity folding.
 - 🛡️ **Cybersecurity & Reverse Engineering:** Binary analysis, executable format inspection (ELF/PE), vulnerability research, threat modeling, and kernel-level runtime protection.
@@ -112,6 +112,6 @@ Interested in low-level systems, compiler development, or security research?
   <a href="https://github.com/isihussain"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-**Email:** [`admin@isihussain.com`](mailto:admin@isihussain.com) • **Domain:** [`isihussain.com`](https://isihussain.com) • **Location:** Tallinn, Estonia
+**Email:** [`admin@isihussain.com`](mailto:admin@isihussain.com) • **Domain:** [`isihussain.com`](https://isihussain.com) • **Origin:** Azerbaijan 🇦🇿
 
 </div>
