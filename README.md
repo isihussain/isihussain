@@ -30,7 +30,7 @@ Systems engineer, cybersecurity researcher, and **Former Military Signal Technic
 - ⚙️ **Compilers & Systems:** Authoring an independent Rust compiler frontend and AST optimizer in C++20 ([`oxide-compiler`](https://github.com/isihussain/oxide-compiler)) with 166 verified tests covering aerospace safety rules, tail call optimization, and algebraic identity folding.
 - 🛡️ **Cybersecurity & Reverse Engineering:** Binary analysis, executable format inspection (ELF/PE), vulnerability research, threat modeling, and kernel-level runtime protection.
 - 🚀 **Simulation & Dynamics:** Flight dynamics, boundary layer wind shear, and cryogenic propellant slosh simulation ([`open-starship`](https://github.com/isihussain/open-starship)) with 69 unit tests and live 3D WebGL telemetry.
-- 📖 **Architecture & Standards:** Curating 268 technical cheat sheets and systems architecture guides ([`developer-handbook`](https://github.com/isihussain/developer-handbook)) covering distributed consensus, memory fences, and Linux kernel internals.
+- 📖 **Architecture & Standards:** Curating 299 technical cheat sheets and systems architecture guides ([`developer-handbook`](https://github.com/isihussain/developer-handbook)) covering distributed consensus, memory fences, and Linux kernel internals.
 
 ---
 
@@ -101,7 +101,7 @@ Systems engineer, cybersecurity researcher, and **Former Military Signal Technic
 | :--- | :--- | :--- | :--- |
 | [**oxide-compiler**](https://github.com/isihussain/oxide-compiler) | Compilers & AST | Independent Rust compiler frontend in C++20 with NASA/JPL safety rules, algebraic identity folding, loop unrolling, and AST dead-code elimination. | `166 / 166 tests passing` · `C++20` `LLVM` |
 | [**open-starship**](https://github.com/isihussain/open-starship) | Physics & Simulation | 3D flight dynamics, cryogenic propellant slosh, and TPS inspection simulator with live [WebGL telemetry viewer](https://isihussain.github.io/open-starship/). | `69 / 69 tests passing` · `Python` `Three.js` |
-| [**developer-handbook**](https://github.com/isihussain/developer-handbook) | Systems Architecture | Curated architectural patterns and systems references across distributed consensus (Paxos, Raft), memory models, HFT systems, and Linux kernel internals. | `268 cheat sheets` • [Live Docs](https://isihussain.github.io/developer-handbook/) |
+| [**developer-handbook**](https://github.com/isihussain/developer-handbook) | Systems Architecture | Curated architectural patterns and systems references across distributed consensus (Paxos, Raft), memory models, HFT systems, and Linux kernel internals. | `299 cheat sheets` • [Live Docs](https://isihussain.github.io/developer-handbook/) |
 | [**AI-CallCenter**](https://github.com/isihussain/AI-CallCenter) | Distributed Voice AI | Multi-tenant voice assistant backend with real-time audio sideband, call analytics & KPI summary API, and data privacy controls. | `38 / 38 tests passing` · `Python` `WebSockets` |
 | [**monthly-project-planner-a4**](https://github.com/isihussain/monthly-project-planner-a4) | Productivity Tool | Minimalist, ink-friendly, single-page A4 monthly project & calendar planner with interactive checkboxes, localStorage persistence, and 5-language localization. | [Live Web App](https://isihussain.github.io/monthly-project-planner-a4/) |
 
