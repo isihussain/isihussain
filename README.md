@@ -107,6 +107,37 @@ Systems engineer, cybersecurity researcher, and **Former Military Signal Technic
 
 ---
 
+### 🏆 GitHub Achievements
+
+<div align="center">
+
+<a href="https://github.com/isihussain?tab=achievements">
+  <img src="https://github.githubassets.com/assets/galaxy-brain-gold-9c2c03fd1acf.png" width="96" alt="Galaxy Brain (Gold Tier x4)" title="Galaxy Brain - Gold Tier x4 (32/32 Accepted Answers)" />
+</a>
+<a href="https://github.com/isihussain?tab=achievements">
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-gold-5335a3b8ae7d.png" width="96" alt="Pair Extraordinaire (Gold Tier x4)" title="Pair Extraordinaire - Gold Tier x4 (149+ Coauthored PRs)" />
+</a>
+<a href="https://github.com/isihussain?tab=achievements">
+  <img src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png" width="96" alt="Pull Shark (Silver Tier x3)" title="Pull Shark - Silver Tier x3 (602 Merged PRs)" />
+</a>
+<a href="https://github.com/isihussain?tab=achievements">
+  <img src="https://github.githubassets.com/assets/public-sponsor-default-9fa68986b057.png" width="96" alt="Public Sponsor" title="Public Sponsor - Verified Sponsor" />
+</a>
+<a href="https://github.com/isihussain?tab=achievements">
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="96" alt="Quickdraw" title="Quickdraw - Merged < 5 mins" />
+</a>
+<a href="https://github.com/isihussain?tab=achievements">
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="96" alt="YOLO" title="YOLO - Merged without review" />
+</a>
+
+<p>
+  <strong>Galaxy Brain (Gold x4)</strong> • <strong>Pair Extraordinaire (Gold x4)</strong> • <strong>Pull Shark (Silver x3 - 602 PRs)</strong> • <strong>Public Sponsor</strong> • <strong>Quickdraw</strong> • <strong>YOLO</strong>
+</p>
+
+</div>
+
+---
+
 ### 📈 Activity & Streak
 
 <div align="center">
