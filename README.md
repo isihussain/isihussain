@@ -118,7 +118,7 @@ Systems engineer, cybersecurity researcher, and **Former Military Signal Technic
   <img src="https://github.githubassets.com/assets/pair-extraordinaire-gold-5335a3b8ae7d.png" width="96" alt="Pair Extraordinaire (Gold Tier x4)" title="Pair Extraordinaire - Gold Tier x4 (149+ Coauthored PRs)" />
 </a>
 <a href="https://github.com/isihussain?tab=achievements">
-  <img src="https://github.githubassets.com/assets/pull-shark-silver-0643f87ac9fd.png" width="96" alt="Pull Shark (Silver Tier x3)" title="Pull Shark - Silver Tier x3 (812 Merged PRs)" />
+  <img src="https://github.githubassets.com/assets/pull-shark-gold-90985540b385.png" width="96" alt="Pull Shark (Gold Tier x4)" title="Pull Shark - Gold Tier x4 (1,070 Merged PRs)" />
 </a>
 <a href="https://github.com/isihussain?tab=achievements">
   <img src="https://github.githubassets.com/assets/public-sponsor-default-9fa68986b057.png" width="96" alt="Public Sponsor" title="Public Sponsor - Verified Sponsor" />
@@ -131,7 +131,7 @@ Systems engineer, cybersecurity researcher, and **Former Military Signal Technic
 </a>
 
 <p>
-  <strong>Galaxy Brain (Gold x4)</strong> • <strong>Pair Extraordinaire (Gold x4)</strong> • <strong>Pull Shark (Silver x3 - 812 PRs)</strong> • <strong>Public Sponsor</strong> • <strong>Quickdraw</strong> • <strong>YOLO</strong>
+  <strong>Galaxy Brain (Gold x4)</strong> • <strong>Pair Extraordinaire (Gold x4)</strong> • <strong>Pull Shark (Gold x4 - 1,070 PRs)</strong> • <strong>Public Sponsor</strong> • <strong>Quickdraw</strong> • <strong>YOLO</strong>
 </p>
 
 </div>
