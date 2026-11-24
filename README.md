@@ -1,7 +1,7 @@
 <div align="center">
 
 # Ismayil Hussain
-### Systems & Compiler Engineer • Cybersecurity Researcher • Military Signal TSgt
+### Systems & Compiler Engineer • Ethical Hacker • DevOps & SysAdmin • Military Signal TSgt
 
 <p align="center">
   <strong>📍 Azerbaijan 🇦🇿</strong> &nbsp;•&nbsp;
@@ -28,7 +28,8 @@ Systems engineer, cybersecurity researcher, and **Former Military Signal Technic
 
 - 📡 **Military Signals & Communications (TSgt):** Former military signal technical sergeant and communications equipment technician (Muhabere). Hands-on expertise in tactical radio transceivers (HF/VHF/UHF, SDR), frequency management, COMSEC/cryptographic devices, antenna propagation, and component-level diagnostic repair of field communications hardware.
 - ⚙️ **Compilers & Systems:** Authoring an independent Rust compiler frontend and AST optimizer in C++20 ([`oxide-compiler`](https://github.com/isihussain/oxide-compiler)) with 192 verified tests covering aerospace safety rules, mission interlocks, tail call optimization, and algebraic identity folding.
-- 🛡️ **Cybersecurity & Reverse Engineering:** Binary analysis, executable format inspection (ELF/PE), vulnerability research, threat modeling, and kernel-level runtime protection.
+- 🛡️ **Ethical Hacking & Reverse Engineering:** Offensive security & penetration testing (Kali Linux, Parrot OS, Termux CLI), binary analysis (ELF/PE), vulnerability research, threat modeling, and kernel-level runtime protection.
+- 📈 **DevOps & Infrastructure:** System telemetry & observability (Prometheus, Grafana, ELK), automated server hardening (SELinux, firewalls, SSH), and containerized deployments.
 - 🚀 **Simulation & Dynamics:** Flight dynamics, boundary layer wind shear, cryogenic propellant slosh, and Mars aerocapture simulation ([`open-starship`](https://github.com/isihussain/open-starship)) with 96 unit tests and live 3D WebGL telemetry.
 - 📖 **Architecture & Standards:** Curating 504 technical cheat sheets and systems architecture guides ([`developer-handbook`](https://github.com/isihussain/developer-handbook)) covering distributed consensus, memory fences, and Linux kernel internals.
 
@@ -53,6 +54,7 @@ Systems engineer, cybersecurity researcher, and **Former Military Signal Technic
       <img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++20"/>
       <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust"/>
       <img src="https://img.shields.io/badge/C17-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
+      <img src="https://img.shields.io/badge/PHP_8.x-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 8.x"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash"/>
@@ -71,21 +73,31 @@ Systems engineer, cybersecurity researcher, and **Former Military Signal Technic
     </td>
   </tr>
   <tr>
-    <td width="24%" valign="top"><strong>Security & Analysis</strong></td>
+    <td width="24%" valign="top"><strong>Ethical Hacking & Pentest</strong></td>
     <td width="76%">
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/>
+      <img src="https://img.shields.io/badge/Parrot_OS-04D6C8?style=flat-square&logo=linux&logoColor=black" alt="Parrot OS"/>
+      <img src="https://img.shields.io/badge/Termux-000000?style=flat-square&logo=termux&logoColor=white" alt="Termux"/>
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" alt="Burp Suite"/>
+      <img src="https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit"/>
+      <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white" alt="Nmap"/>
+      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
       <img src="https://img.shields.io/badge/Reverse%20Engineering-FF4500?style=flat-square&logo=target&logoColor=white" alt="Reverse Engineering"/>
       <img src="https://img.shields.io/badge/Binary%20Analysis-2C3E50?style=flat-square&logo=gnubash&logoColor=white" alt="Binary Analysis"/>
-      <img src="https://img.shields.io/badge/Threat%20Modeling-8B0000?style=flat-square&logo=shield&logoColor=white" alt="Threat Modeling"/>
-      <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/>
-      <img src="https://img.shields.io/badge/OSINT-2F4F4F?style=flat-square&logo=search&logoColor=white" alt="OSINT"/>
       <img src="https://img.shields.io/badge/Vulnerability%20Research-D32F2F?style=flat-square&logo=buffer&logoColor=white" alt="Vulnerability Research"/>
+      <img src="https://img.shields.io/badge/OSINT-2F4F4F?style=flat-square&logo=search&logoColor=white" alt="OSINT"/>
     </td>
   </tr>
   <tr>
-    <td width="24%" valign="top"><strong>Infrastructure & Cloud</strong></td>
+    <td width="24%" valign="top"><strong>DevOps, Monitoring & SysAdmin</strong></td>
     <td width="76%">
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
+      <img src="https://img.shields.io/badge/ELK_Stack-005571?style=flat-square&logo=elasticstack&logoColor=white" alt="ELK Stack"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible"/>
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="CI/CD"/>
+      <img src="https://img.shields.io/badge/Linux_Hardening-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux Hardening"/>
       <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/Three.js%20%2F%20WebGL-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
